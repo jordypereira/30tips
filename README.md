@@ -1,4 +1,4 @@
-# Welcome to [Slidev](https://github.com/slidevjs/slidev)!
+# 30 Tips now that I'm 30
 
 To start the slide show:
 
